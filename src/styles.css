@@ -1,6 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
-<<<<<<< HEAD
-=======
 /* in-flight clone */
 @import "node_modules\dragula\dist\dragula.css";
 
@@ -31,4 +29,3 @@
     filter: alpha(opacity=20);
   }
   
->>>>>>> 1abe92fdfb31753b860c9966f1067d2da71f284e

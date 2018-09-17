@@ -1,10 +1,6 @@
 # NgDynamicDnd
 
-<<<<<<< HEAD
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
-=======
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
->>>>>>> 1abe92fdfb31753b860c9966f1067d2da71f284e
 
 ## Development server
 
